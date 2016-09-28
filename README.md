@@ -4,7 +4,7 @@ A point on or around the earth's surface can be expressed in terms of latitude, 
 
 A handful of java segments can be found online for converting between the two coordinate systems using java. However, none of these use established libraries, which might be desireable for some applications. 
 
-Orekit, a java library for orbital dynamics, provides the ability to convert between the cartesian and geodetic coordinate systems. However, this library can be difficult to dive into if you just want to use it for basic conversions. I've created this example code to demonstrate the use of the orekit library. 
+Orekit, a java library for orbital dynamics, provides the ability to convert between the cartesian and geodetic coordinate systems. However, this library can be difficult to dive into if you just want to use it for basic conversions. I've created this example code to demonstrate the use of the orekit library. The example is written in Scala and built using SBT.
 
 ## Instructions
 * Clone the repo
